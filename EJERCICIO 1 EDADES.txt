@@ -1,0 +1,13 @@
+#ejercicio 1
+# descrpción : capturar nombre , edad y validar si esta es mayor
+
+Datos de entrada : nombre : string , edad : int(1-130).
+condicion:
+Mensaje de menor edad "Menor de edad" , cuando edad sea (1-17-9).
+Mensaje de Mayor edad " Mayor de edad", cuando eadd sea ( 18-130).
+
+Datos de salida
+Menor de edad
+Mayor de edad
+
+Errores
